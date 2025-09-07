@@ -7,11 +7,11 @@ The name comes from the group chat with Kevin, Holly, and me.
 
 ## Things Addison Wants to Learn
 
-- APIs
-- Python
-- Creating an AI bot
-- Databases
-- Security and Encryption
+- [ ] APIs
+- [ ] Python
+- [ ] Creating an AI bot
+- [ ] Databases
+- [ ] Security and Encryption
 
 ---
 
